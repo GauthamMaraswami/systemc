@@ -1,0 +1,149 @@
+$date
+     Sep 19, 2016       19:52:35
+$end
+
+$version
+ SystemC 2.3.1-Accellera --- Aug 25 2016 09:38:10
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$var wire    1  aaaaa  A       $end
+$var wire    1  aaaab  B       $end
+$var wire    1  aaaac  C       $end
+$var wire    1  aaaad  D       $end
+$var wire    1  aaaae  clude/sysc/communication/sc_port.h       $end
+$var wire    1  aaaaf  lude/sysc/communication/sc_port.h       $end
+$var wire    1  aaaag  ude/sysc/communication/sc_port.h       $end
+$var wire    1  aaaah  de/sysc/communication/sc_port.h       $end
+$var wire    1  aaaai  e/sysc/communication/sc_port.h       $end
+$var wire    1  aaaaj  /sysc/communication/sc_port.h       $end
+$var wire    1  aaaak  sysc/communication/sc_port.h       $end
+$var wire    1  aaaal  ysc/communication/sc_port.h       $end
+$var wire    1  aaaam  sc/communication/sc_port.h       $end
+$var wire    1  aaaan  c/communication/sc_port.h       $end
+$var wire    1  aaaao  /communication/sc_port.h       $end
+$var wire    1  aaaap  communication/sc_port.h       $end
+$var wire    1  aaaaq  ommunication/sc_port.h       $end
+$var wire    1  aaaar  mmunication/sc_port.h       $end
+$var wire    1  aaaas  munication/sc_port.h       $end
+$var wire    1  aaaat  unication/sc_port.h       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+0aaaaa
+0aaaab
+0aaaac
+0aaaad
+1aaaae
+0aaaaf
+0aaaag
+0aaaah
+0aaaai
+0aaaaj
+0aaaak
+0aaaal
+0aaaam
+0aaaan
+0aaaao
+0aaaap
+0aaaaq
+0aaaar
+0aaaas
+0aaaat
+$end
+
+#10
+1aaaad
+0aaaae
+1aaaaf
+
+#20
+1aaaac
+0aaaad
+0aaaaf
+1aaaag
+
+#30
+1aaaad
+0aaaag
+1aaaah
+
+#40
+1aaaab
+0aaaac
+0aaaad
+0aaaah
+1aaaai
+
+#50
+1aaaad
+0aaaai
+1aaaaj
+
+#60
+1aaaac
+0aaaad
+0aaaaj
+1aaaak
+
+#70
+1aaaad
+0aaaak
+1aaaal
+
+#80
+1aaaaa
+0aaaab
+0aaaac
+0aaaad
+0aaaal
+1aaaam
+
+#90
+1aaaad
+0aaaam
+1aaaan
+
+#100
+1aaaac
+0aaaad
+0aaaan
+1aaaao
+
+#110
+1aaaad
+0aaaao
+1aaaap
+
+#120
+1aaaab
+0aaaac
+0aaaad
+0aaaap
+1aaaaq
+
+#130
+1aaaad
+0aaaaq
+1aaaar
+
+#140
+1aaaac
+0aaaad
+0aaaar
+1aaaas
+
+#150
+1aaaad
+0aaaas
+1aaaat
+
